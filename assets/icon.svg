@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#D8F0FF"/>
+  <circle cx="140" cy="150" r="64" fill="#C98B4E"/>
+  <circle cx="372" cy="150" r="64" fill="#C98B4E"/>
+  <circle cx="140" cy="150" r="32" fill="#F4C79B"/>
+  <circle cx="372" cy="150" r="32" fill="#F4C79B"/>
+  <circle cx="256" cy="270" r="176" fill="#D9A064"/>
+  <ellipse cx="256" cy="330" rx="84" ry="62" fill="#F4C79B"/>
+  <circle cx="196" cy="246" r="20" fill="#1E2A4F"/>
+  <circle cx="316" cy="246" r="20" fill="#1E2A4F"/>
+  <circle cx="203" cy="238" r="7" fill="#fff"/>
+  <circle cx="323" cy="238" r="7" fill="#fff"/>
+  <ellipse cx="256" cy="304" rx="28" ry="20" fill="#1E2A4F"/>
+  <path d="M222 346Q256 378 290 346" stroke="#1E2A4F" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="150" cy="306" r="24" fill="#FF8FA3" opacity=".6"/>
+  <circle cx="362" cy="306" r="24" fill="#FF8FA3" opacity=".6"/>
+  <rect x="150" y="408" width="212" height="76" rx="38" fill="#FFC933" stroke="#1E2A4F" stroke-width="10"/>
+  <text x="256" y="465" font-size="56" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" fill="#1E2A4F">1 2 3</text>
+</svg>
